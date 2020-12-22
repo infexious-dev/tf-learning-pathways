@@ -38,17 +38,7 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "SunPork",
-      "SubCategories": [
-        {
-          "Id": "8ff138bb-608f-472b-9333-d7581227e56",
-          "Name": "Code of Conduct",
-          "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
-          "SubjectId": null,
-          "Source": "SunPork",
-          "SubCategories": []
-        }
-      ]
+      "SubCategories": []
     }
   ],
   "Audiences": [
