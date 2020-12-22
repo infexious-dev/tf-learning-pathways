@@ -1,22 +1,5 @@
 [
   {
-    "Id": "755d2250-2231-476f-b490-75ba0a7fb5d0",
-    "Title": "SunPork Offerings",
-    "Image": "images/playlists/collab.jpg",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
-    "SubjectId": "",
-    "Source": "SunPork",
-    "CatId": "8ff138bb-608f-472b-9333-d7581227e56",
-    "Description": "Innovate and imagine new ways to manage, deliver and present data through SharePoint that is visually stunning.",
-    "StatusTagId": "",
-    "StatusNote": null,
-    "Assets": [
-      "ac633048-0baf-4019-b5f4-47e706349ee6"
-    ]
-  },
-  {
     "Id": "8f026372-069d-4449-a116-938bf5aae7ea",
     "Title": "Get started with Microsoft 365",
     "Image": "images/playlists/intro_to_office.png",
