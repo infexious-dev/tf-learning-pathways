@@ -17,7 +17,7 @@
     },
     {
       "Id": "9d55f3ad-520f-4f86-9da1-ef77629d1110",
-      "Name": "SunPork TEST",
+      "Name": "Example Technology",
       "Subjects": []
     },
     {
@@ -94,11 +94,11 @@
     },
     {
       "Id": "768815af-7f44-432a-af12-9a8c0c845759",
-      "Name": "SunPork TEST",
+      "Name": "Example Category",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "9d55f3ad-520f-4f86-9da1-ef77629d1110",
       "SubjectId": "",
-      "Source": "SunPork TEST",
+      "Source": "SunPork",
       "SubCategories": []
     },
     {
@@ -204,8 +204,7 @@
     "M365",
     "Microsoft",
     "LinkedIn",
-    "SunPork",
-    "SunPork TEST"
+    "SunPork"
   ],
   "Levels": [
     {
