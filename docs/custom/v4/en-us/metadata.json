@@ -26,7 +26,7 @@
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
+          "Id": "4afd4d9f-0741-4a0a-be14-32ac69bb461c",
           "Name": "Accounts Payable",
           "Image": "images/categories/dynamics.png",
           "TechnologyId": "4fc75f18-6c08-4908-9476-80a3394069fb",
@@ -35,7 +35,7 @@
           "SubCategories": []
         },
         {
-          "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
+          "Id": "5233f766-a3b6-49ad-9e23-cb8c26c2fe0f",
           "Name": "Accounts Receivable",
           "Image": "images/categories/dynamics.png",
           "TechnologyId": "4fc75f18-6c08-4908-9476-80a3394069fb",
@@ -44,7 +44,7 @@
           "SubCategories": []
         },
         {
-          "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
+          "Id": "08ea6542-561d-4756-be7f-fc7b898708a4",
           "Name": "Purchasing",
           "Image": "images/categories/dynamics.png",
           "TechnologyId": "4fc75f18-6c08-4908-9476-80a3394069fb",
