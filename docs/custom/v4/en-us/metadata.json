@@ -1,6 +1,11 @@
 {
   "Technologies": [
     {
+      "Id": "4fc75f18-6c08-4908-9476-80a3394069fb",
+      "Name": "Dynamics 365",
+      "Subjects": []
+    },
+    {
       "Id": "0ae04ffb-5e69-461d-919d-a2215109bf49",
       "Name": "Office 365",
       "Subjects": []
@@ -12,6 +17,43 @@
     }
   ],
   "Categories": [
+    {
+      "Id": "2f44c3db-1f36-456a-b25e-bc286ea31390",
+      "Name": "Dynamics 365",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
+          "Name": "Accounts Payable",
+          "Image": "images/categories/dynamics.png",
+          "TechnologyId": "4fc75f18-6c08-4908-9476-80a3394069fb",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
+          "Name": "Accounts Receivable",
+          "Image": "images/categories/dynamics.png",
+          "TechnologyId": "4fc75f18-6c08-4908-9476-80a3394069fb",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
+          "Name": "Purchasing",
+          "Image": "images/categories/dynamics.png",
+          "TechnologyId": "4fc75f18-6c08-4908-9476-80a3394069fb",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
       "Name": "Office 365",
