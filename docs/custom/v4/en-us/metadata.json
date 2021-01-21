@@ -93,15 +93,6 @@
       "SubCategories": []
     },
     {
-      "Id": "768815af-7f44-432a-af12-9a8c0c845759",
-      "Name": "Example Category",
-      "Image": "",
-      "TechnologyId": "9d55f3ad-520f-4f86-9da1-ef77629d1110",
-      "SubjectId": "",
-      "Source": "SunPork",
-      "SubCategories": []
-    },
-    {
       "Id": "e322b643-61b8-4f65-906d-802ff5ecb3fb",
       "Name": "Thorsys",
       "Image": "",
@@ -146,6 +137,15 @@
           "SubCategories": []
         }
       ]
+    },
+    {
+      "Id": "768815af-7f44-432a-af12-9a8c0c845759",
+      "Name": "Example Category",
+      "Image": "",
+      "TechnologyId": "9d55f3ad-520f-4f86-9da1-ef77629d1110",
+      "SubjectId": "",
+      "Source": "SunPork",
+      "SubCategories": []
     }
   ],
   "Audiences": [
