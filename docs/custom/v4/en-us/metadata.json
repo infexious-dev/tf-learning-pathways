@@ -16,11 +16,6 @@
       "Subjects": []
     },
     {
-      "Id": "9d55f3ad-520f-4f86-9da1-ef77629d1110",
-      "Name": "Example Technology",
-      "Subjects": []
-    },
-    {
       "Id": "d8347a6c-caf5-4dc3-a052-7fa4d0e50866",
       "Name": "Thorsys",
       "Subjects": []
@@ -85,11 +80,11 @@
     },
     {
       "Id": "b9c5429f-aae2-48fb-aa36-b834587d54fe",
-      "Name": "SunPork",
+      "Name": "SunPork Group",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
       "SubjectId": "",
-      "Source": "SunPork",
+      "Source": "SunPork Group",
       "SubCategories": []
     },
     {
@@ -99,52 +94,6 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Thorsys",
-      "SubCategories": [
-        {
-          "Id": "edbfbeed-5699-4b8b-9ab7-0251d8ddf7c2",
-          "Name": "SLF",
-          "Image": "images/categories/thorsys.jpg",
-          "TechnologyId": "d8347a6c-caf5-4dc3-a052-7fa4d0e50866",
-          "SubjectId": null,
-          "Source": "Thorsys",
-          "SubCategories": []
-        },
-        {
-          "Id": "e43161ec-a7b2-4e2b-bb6c-5e59a0dc5086",
-          "Name": "Boning Room",
-          "Image": "images/categories/thorsys.jpg",
-          "TechnologyId": "d8347a6c-caf5-4dc3-a052-7fa4d0e50866",
-          "SubjectId": null,
-          "Source": "Thorsys",
-          "SubCategories": []
-        },
-        {
-          "Id": "8b788bd9-ea53-4b3e-862b-123d6a02bbea",
-          "Name": "Wholesale",
-          "Image": "images/categories/thorsys.jpg",
-          "TechnologyId": "d8347a6c-caf5-4dc3-a052-7fa4d0e50866",
-          "SubjectId": null,
-          "Source": "Thorsys",
-          "SubCategories": []
-        },
-        {
-          "Id": "5e98d085-4b37-424d-aa25-411f57eacbf3",
-          "Name": "Dispatch",
-          "Image": "images/categories/thorsys.jpg",
-          "TechnologyId": "d8347a6c-caf5-4dc3-a052-7fa4d0e50866",
-          "SubjectId": null,
-          "Source": "Thorsys",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
-      "Id": "768815af-7f44-432a-af12-9a8c0c845759",
-      "Name": "Example Category",
-      "Image": "",
-      "TechnologyId": "9d55f3ad-520f-4f86-9da1-ef77629d1110",
-      "SubjectId": "",
-      "Source": "SunPork",
       "SubCategories": []
     }
   ],
@@ -191,7 +140,7 @@
     },
     {
       "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
-      "Name": "Site Sponsor"
+      "Name": "Supervisor"
     },
     {
       "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -204,7 +153,7 @@
     "M365",
     "Microsoft",
     "LinkedIn",
-    "SunPork"
+    "SunPork Group"
   ],
   "Levels": [
     {
