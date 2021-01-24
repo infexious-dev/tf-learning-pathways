@@ -12,7 +12,7 @@
     },
     {
       "Id": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
-      "Name": "SunPork",
+      "Name": "SunPork Group",
       "Subjects": []
     },
     {
@@ -29,35 +29,7 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft",
-      "SubCategories": [
-        {
-          "Id": "4afd4d9f-0741-4a0a-be14-32ac69bb461c",
-          "Name": "Accounts Payable",
-          "Image": "images/categories/dynamics.png",
-          "TechnologyId": "4fc75f18-6c08-4908-9476-80a3394069fb",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "5233f766-a3b6-49ad-9e23-cb8c26c2fe0f",
-          "Name": "Accounts Receivable",
-          "Image": "images/categories/dynamics.png",
-          "TechnologyId": "4fc75f18-6c08-4908-9476-80a3394069fb",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "08ea6542-561d-4756-be7f-fc7b898708a4",
-          "Name": "Purchasing",
-          "Image": "images/categories/dynamics.png",
-          "TechnologyId": "4fc75f18-6c08-4908-9476-80a3394069fb",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
+      "SubCategories": []      
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
@@ -80,58 +52,21 @@
     },
     {
       "Id": "b9c5429f-aae2-48fb-aa36-b834587d54fe",
-      "Name": "SunPork",
+      "Name": "SunPork Group",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
       "SubjectId": "",
-      "Source": "SunPork",
+      "Source": "SunPork Group",
       "SubCategories": []
     },
     {
       "Id": "e322b643-61b8-4f65-906d-802ff5ecb3fb",
       "Name": "Thorsys",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "d8347a6c-caf5-4dc3-a052-7fa4d0e50866",
       "SubjectId": "",
       "Source": "Thorsys",
-      "SubCategories": [
-        {
-          "Id": "edbfbeed-5699-4b8b-9ab7-0251d8ddf7c2",
-          "Name": "SLF",
-          "Image": "images/categories/thorsys.jpg",
-          "TechnologyId": "d8347a6c-caf5-4dc3-a052-7fa4d0e50866",
-          "SubjectId": null,
-          "Source": "Thorsys",
-          "SubCategories": []
-        },
-        {
-          "Id": "e43161ec-a7b2-4e2b-bb6c-5e59a0dc5086",
-          "Name": "Boning Room",
-          "Image": "images/categories/thorsys.jpg",
-          "TechnologyId": "d8347a6c-caf5-4dc3-a052-7fa4d0e50866",
-          "SubjectId": null,
-          "Source": "Thorsys",
-          "SubCategories": []
-        },
-        {
-          "Id": "8b788bd9-ea53-4b3e-862b-123d6a02bbea",
-          "Name": "Wholesale",
-          "Image": "images/categories/thorsys.jpg",
-          "TechnologyId": "d8347a6c-caf5-4dc3-a052-7fa4d0e50866",
-          "SubjectId": null,
-          "Source": "Thorsys",
-          "SubCategories": []
-        },
-        {
-          "Id": "5e98d085-4b37-424d-aa25-411f57eacbf3",
-          "Name": "Dispatch",
-          "Image": "images/categories/thorsys.jpg",
-          "TechnologyId": "d8347a6c-caf5-4dc3-a052-7fa4d0e50866",
-          "SubjectId": null,
-          "Source": "Thorsys",
-          "SubCategories": []
-        }
-      ]
+      "SubCategories": []
     }
   ],
   "Audiences": [
@@ -177,7 +112,7 @@
     },
     {
       "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
-      "Name": "Site Sponsor"
+      "Name": "Supervisor"
     },
     {
       "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -190,7 +125,7 @@
     "M365",
     "Microsoft",
     "LinkedIn",
-    "SunPork"
+    "SunPork Group"
   ],
   "Levels": [
     {
