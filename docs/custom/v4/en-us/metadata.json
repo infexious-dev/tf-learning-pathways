@@ -29,35 +29,7 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft",
-      "SubCategories": [
-        {
-          "Id": "4afd4d9f-0741-4a0a-be14-32ac69bb461c",
-          "Name": "Accounts Payable",
-          "Image": "images/categories/dynamics.png",
-          "TechnologyId": "4fc75f18-6c08-4908-9476-80a3394069fb",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "5233f766-a3b6-49ad-9e23-cb8c26c2fe0f",
-          "Name": "Accounts Receivable",
-          "Image": "images/categories/dynamics.png",
-          "TechnologyId": "4fc75f18-6c08-4908-9476-80a3394069fb",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "08ea6542-561d-4756-be7f-fc7b898708a4",
-          "Name": "Purchasing",
-          "Image": "images/categories/dynamics.png",
-          "TechnologyId": "4fc75f18-6c08-4908-9476-80a3394069fb",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
+      "SubCategories": []
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
