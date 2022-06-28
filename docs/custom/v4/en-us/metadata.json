@@ -2,71 +2,38 @@
   "Technologies": [
     {
       "Id": "4fc75f18-6c08-4908-9476-80a3394069fb",
-      "Name": "Dynamics 365",
-      "Subjects": []
+      "Name": "Office 365 - Excel"
     },
     {
-      "Id": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-      "Name": "Office 365",
-      "Subjects": []
-    },
-    {
-      "Id": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
-      "Name": "SunPork Group",
-      "Subjects": []
-    },
-    {
-      "Id": "d8347a6c-caf5-4dc3-a052-7fa4d0e50866",
-      "Name": "Thorsys",
-      "Subjects": []
+      "Id": "b7abba43-a9ff-49bd-8df4-0b6e535f0704",
+      "Name": "Office 365 - Other"
     }
   ],
   "Categories": [
     {
       "Id": "2f44c3db-1f36-456a-b25e-bc286ea31390",
-      "Name": "Dynamics 365",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": []      
+      "Name": "Consultant",
+      "Image": ""
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Office 365",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": [
-        {
-          "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
-          "Name": "Microsoft 365 Basics",
-          "Image": "images/categories/office_basics.png",
-          "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
+      "Name": "Manager",
+      "Image": ""
     },
     {
       "Id": "b9c5429f-aae2-48fb-aa36-b834587d54fe",
-      "Name": "SunPork Group",
-      "Image": "",
-      "TechnologyId": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
-      "SubjectId": "",
-      "Source": "SunPork Group",
-      "SubCategories": []
+      "Name": "Director",
+      "Image": ""
     },
     {
       "Id": "e322b643-61b8-4f65-906d-802ff5ecb3fb",
-      "Name": "Thorsys",
-      "Image": "",
-      "TechnologyId": "d8347a6c-caf5-4dc3-a052-7fa4d0e50866",
-      "SubjectId": "",
-      "Source": "Thorsys",
-      "SubCategories": []
+      "Name": "Principal",
+      "Image": ""
+    },
+    {
+      "Id": "5e4e57a8-af4b-45d9-b8de-d8d17f64075e",
+      "Name": "Business Services",
+      "Image": ""
     }
   ],
   "Audiences": [
@@ -120,12 +87,6 @@
     }
   ],
   "Sources": [
-    "SOC",
-    "FastTrack",
-    "M365",
-    "Microsoft",
-    "LinkedIn",
-    "SunPork Group"
   ],
   "Levels": [
     {
@@ -167,9 +128,9 @@
     "AppInsightKey": "089e14f6-1341-44b8-9135-71b3e326e914"
   },
   "Version": {
-    "Manifest": "v3",
-    "ManifestMinWebPart": "3.0.0",
-    "CurrentWebPart": "3.0.0",
+    "Manifest": "v4",
+    "ManifestMinWebPart": "4.3.1",
+    "CurrentWebPart": "4.3.1",
     "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
   },
   "ContentPacks": [],
