@@ -2,11 +2,13 @@
   "Technologies": [
     {
       "Id": "4fc75f18-6c08-4908-9476-80a3394069fb",
-      "Name": "Office 365 - Excel"
+      "Name": "Office 365 - Excel",
+      "Subjects": []
     },
     {
       "Id": "b7abba43-a9ff-49bd-8df4-0b6e535f0704",
-      "Name": "Office 365 - Other"
+      "Name": "Office 365 - Other",
+      "Subjects": []
     }
   ],
   "Categories": [
