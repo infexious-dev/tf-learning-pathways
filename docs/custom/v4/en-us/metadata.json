@@ -18,7 +18,43 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "M365",
+      "Source": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Name": "Manager",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "b9c5429f-aae2-48fb-aa36-b834587d54fe",
+      "Name": "Director",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "e322b643-61b8-4f65-906d-802ff5ecb3fb",
+      "Name": "Principal",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "5e4e57a8-af4b-45d9-b8de-d8d17f64075e",
+      "Name": "Business Services",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
       "SubCategories": []
     }
   ],
@@ -72,9 +108,7 @@
       "Name": "All"
     }
   ],
-  "Sources": [
-    "M365"
-  ],
+  "Sources": [],
   "Levels": [
     {
       "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
