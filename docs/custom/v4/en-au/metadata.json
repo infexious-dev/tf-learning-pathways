@@ -3,7 +3,7 @@
   "Categories": [
     {
       "Id": "2f44c3db-1f36-456a-b25e-bc286ea31390",
-      "Name": "Consultant",
+      "Name": "Company Knowledge",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -12,7 +12,7 @@
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Manager",
+      "Name": "Computer Science",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -21,7 +21,7 @@
     },
     {
       "Id": "b9c5429f-aae2-48fb-aa36-b834587d54fe",
-      "Name": "Director",
+      "Name": "Data Science",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -30,7 +30,7 @@
     },
     {
       "Id": "e322b643-61b8-4f65-906d-802ff5ecb3fb",
-      "Name": "Principal",
+      "Name": "Industry Knowledge",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -39,7 +39,16 @@
     },
     {
       "Id": "5e4e57a8-af4b-45d9-b8de-d8d17f64075e",
-      "Name": "Business Services",
+      "Name": "Modelling",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "2656fb40-f250-4eee-935f-84d684fef487",
+      "Name": "Office 365",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
