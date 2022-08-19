@@ -45,24 +45,6 @@
       "SubjectId": "",
       "Source": "",
       "SubCategories": []
-    },
-    {
-      "Id": "a5c1cf43-5bd4-447a-ba5c-49dfe690ce89",
-      "Name": "Office 365",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
-    },
-    {
-      "Id": "e69fc4e0-e2e4-4273-9ef2-2ed4a02d110a",
-      "Name": "Office Suite",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
     }
   ],
   "Audiences": [
