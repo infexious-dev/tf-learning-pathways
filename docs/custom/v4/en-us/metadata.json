@@ -2,6 +2,25 @@
   "Technologies": [],
   "Categories": [
     {
+      "Id": "a3d29b60-2cfe-11ed-a261-0242ac120002",
+      "Name": "Another TEST - First",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": [
+        {
+          "Id": "ad9e054e-2cfe-11ed-a261-0242ac120002",
+          "Name": "Testing In-Built Subcategory",
+          "Image": "images/categories/customfeatured.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
       "Id": "2f44c3db-1f36-456a-b25e-bc286ea31390",
       "Name": "Company Knowledge",
       "Image": "",
