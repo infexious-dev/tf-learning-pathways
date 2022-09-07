@@ -20,7 +20,7 @@
         },
         {
           "Id": "996b4509-dba8-4a35-8269-79a9dadae37f",
-          "Name": "General Insurance",
+          "Name": "General insurance",
           "Image": "images/subcategories/GeneralInsurance.jpg",
           "TechnologyId": "",
           "SubjectId": null,
@@ -47,7 +47,7 @@
         },
         {
           "Id": "f3c1a5ba-bc39-47ba-bda5-45f9ae9058fa",
-          "Name": "Injury Schemes",
+          "Name": "Injury schemes",
           "Image": "images/subcategories/InjurySchemes.jpg",
           "TechnologyId": "",
           "SubjectId": null,
@@ -56,7 +56,7 @@
         },
         {
           "Id": "b3a07567-be35-4246-9545-807b1a6d337a",
-          "Name": "Self Insurance",
+          "Name": "Self insurance",
           "Image": "images/subcategories/SelfInsurance.jpg",
           "TechnologyId": "",
           "SubjectId": null,
