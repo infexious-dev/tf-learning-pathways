@@ -12,7 +12,7 @@
         {
           "Id": "2f6a44d3-e6d8-472d-8960-bf2c55f7f111",
           "Name": "Analytics",
-          "Image": "images/categories/_insert-image-here.png",
+          "Image": "images/categories/placeholder.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -21,7 +21,7 @@
         {
           "Id": "996b4509-dba8-4a35-8269-79a9dadae37f",
           "Name": "General Insurance",
-          "Image": "images/categories/_insert-image-here.png",
+          "Image": "images/categories/placeholder.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -30,7 +30,7 @@
         {
           "Id": "f6e27843-45c4-4f41-8b36-aa9e412c7eef",
           "Name": "Government",
-          "Image": "images/categories/_insert-image-here.png",
+          "Image": "images/categories/placeholder.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -39,7 +39,7 @@
         {
           "Id": "1d7bd406-ddcb-4320-b91a-55499a4a1381",
           "Name": "Health",
-          "Image": "images/categories/_insert-image-here.png",
+          "Image": "images/categories/placeholder.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -48,7 +48,7 @@
         {
           "Id": "f3c1a5ba-bc39-47ba-bda5-45f9ae9058fa",
           "Name": "Injury Schemes",
-          "Image": "images/categories/_insert-image-here.png",
+          "Image": "images/categories/placeholder.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
@@ -57,7 +57,7 @@
         {
           "Id": "b3a07567-be35-4246-9545-807b1a6d337a",
           "Name": "Self Insurance",
-          "Image": "images/categories/_insert-image-here.png",
+          "Image": "images/categories/placeholder.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "",
