@@ -66,17 +66,8 @@
       ]
     },
     {
-      "Id": "03201830-5b5b-4a14-81b1-3b429936d0e0",
-      "Name": "Master Track",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
-    },
-    {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Programming",
+      "Name": "Master Track",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
